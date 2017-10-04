@@ -1,4 +1,4 @@
-.MODEL tyni    
+.MODEL tiny    
 
 .stack 100h
 
